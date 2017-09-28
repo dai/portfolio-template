@@ -58,7 +58,7 @@ theme_settings:
 
 
 # PAGINATION
-paginate: 5
+paginate: 1
 paginate_path: "blog/page:num"
 
 # COLLECTIONS
