@@ -8,11 +8,11 @@ theme_settings:
   title: "SKEH"
   avatar: avatar.png
   gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "let's Overtaking." # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>general みたものすべて width</h1>
+     <h1>2020 Leaders of Tokyo </h1>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
@@ -21,8 +21,8 @@ theme_settings:
   rss: false
   email_address: "co@daisuke.co" # Full email address, e.g. "sam@example.com"
   behance:
-  bitbucket: dai
-  dribbble: "barlog"
+  bitbucket: "dai"
+  dribbble: "dai"
   facebook: "daiskeh"
   flickr: "barlog"
   github: "dai"
